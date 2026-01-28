@@ -1,5 +1,5 @@
 # Spring boot and Microservice with Kubernetes (K8s)
-Spring demo with Microservice and Kubernetes
+Spring with Microservice and Kubernetes
 
 
 ## Running kubernates dashboard
