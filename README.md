@@ -1,4 +1,4 @@
-# Spring boot and Microservice with Kubernates 
+# Spring boot and Microservice with Kubernetes (K8s)
 Spring demo with Microservice and Kubernetes
 
 
